@@ -1,0 +1,19 @@
+{
+  "name": "components",
+  "version": "0.0.1",
+  "description": "Load script files for custom elements into your site load web component and define a default custom element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusbaer/custom-element-components.git"
+  },
+  "author": "Marcus Baer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcusbaer/custom-element-components/issues"
+  },
+  "homepage": "https://github.com/marcusbaer/custom-element-components#readme"
+}
