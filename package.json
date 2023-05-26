@@ -1,6 +1,6 @@
 {
-  "name": "components",
-  "version": "0.0.1",
+  "name": "@custom-element/components",
+  "version": "0.0.2",
   "description": "Load script files for custom elements into your site load web component and define a default custom element.",
   "main": "index.js",
   "scripts": {
